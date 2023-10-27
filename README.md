@@ -8,3 +8,7 @@
     - [ ] Exercicio 3
 - [ ] Pratica 3
     - [ ] Exercicio 1
+- [ ] Pratica 4
+    - [ ] Exercicio 1
+    - [ ] Exercicio 2
+    - [x] Exercicio 3
