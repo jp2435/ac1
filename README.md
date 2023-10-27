@@ -1,0 +1,10 @@
+- [ ] Pratica 1
+    - [x] Exercicio 1
+    - [ ] Exercicio 2
+    - [ ] Exercicio 3
+- [ ] Pratica 2
+    - [ ] Exercicio 1
+    - [ ] Exercicio 2
+    - [ ] Exercicio 3
+- [ ] Pratica 3
+    - [ ] Exercicio 1
