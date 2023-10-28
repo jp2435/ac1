@@ -7,7 +7,7 @@
     - [ ] Exercicio 2
     - [ ] Exercicio 3
 - [ ] Pratica 3
-    - [ ] Exercicio 1
+    - [x] [Exercicio 1](./P3/ex01.asm)
     - [x] [Exercicio 2](./P3/ex02.asm)
 - [ ] Pratica 4
     - [x] [Exercicio 1](./P4/ex01.asm)
