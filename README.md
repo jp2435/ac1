@@ -1,5 +1,5 @@
 - [ ] Pratica 1
-    - [x] Exercicio 1
+    - [x] [Exercicio 1](./P1/1ex.asm)
     - [ ] Exercicio 2
     - [ ] Exercicio 3
 - [ ] Pratica 2
@@ -10,5 +10,8 @@
     - [ ] Exercicio 1
 - [ ] Pratica 4
     - [ ] Exercicio 1
+    - [x] [Exercicio 2](./P4/ex02.asm)
+    - [x] [Exercicio 3](./P4/ex03.asm)
+- [ ] Pratica 5
+    - [ ] Exercicio 1
     - [ ] Exercicio 2
-    - [x] Exercicio 3
