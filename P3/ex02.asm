@@ -20,6 +20,7 @@ main:
       
       li $v0, print_string
       la $a0,str2
+      syscall
 
 for:
     bge $t2, 32, endfor # for(i<32)
