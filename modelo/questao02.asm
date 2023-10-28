@@ -24,7 +24,7 @@ do:
       srl $t5,$t5,1 # temp0 = temp0/2
       sll $t5,$t5,2 # temp0 = temp0*4 (endereços)
       add $t5,$t4,$t5 # temp0 = i + temp0
-      lw $t6,0,($t5) # *p2 = val[i+SIZE/2]
+      lw $t6,0($t5) # *p2 = val[i+SIZE/2]
       
       move $t7,$t6 # val[i] = val[i+SIZE/2]
       move $t6,$t1 # val[i+SIZE/2] = v

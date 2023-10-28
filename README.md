@@ -9,7 +9,7 @@
 - [x] Pratica 3
     - [x] [Exercicio 1](./P3/ex01.asm)
     - [x] [Exercicio 2](./P3/ex02.asm)
-- [ ] Pratica 4
+- [x] Pratica 4
     - [x] [Exercicio 1](./P4/ex01.asm)
     - [x] [Exercicio 2](./P4/ex02.asm)
     - [x] [Exercicio 3](./P4/ex03.asm)
