@@ -16,3 +16,12 @@
 - [ ] Pratica 5
     - [ ] Exercicio 1
     - [ ] Exercicio 2
+- [ ] Pratica 6
+- [ ] Pratica 7
+    - [ ] Exercicio 1
+    - [ ] Exercicio 2
+    - [ ] Exercicio 3
+    - [ ] Exercicio 4
+- [ ] Pratica 8
+- [ ] Pratica 9
+    - [x] [Exercicio 1](./P9/ex01.asm)
